@@ -1,3 +1,8 @@
+# Sample Video
+
+<iframe src="https://player.vimeo.com/video/6410100" width="640" height="469" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/6410100">monty python - the bright side</a> from <a href="https://vimeo.com/user1977142">tiniyah</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 # Embedding
 
 Embedding is the process of including *media* from other sources into your web sites.
