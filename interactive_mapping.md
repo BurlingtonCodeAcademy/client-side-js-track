@@ -8,7 +8,7 @@
 
 * Let's make a simple map!
 
-![Leaflet Map](/images/simple-map-leaflet.png)
+![Leaflet Map](https://res.cloudinary.com/btvca/image/upload/v1574445202/curriculum/simple-map-leaflet_adhysh.png)
 
 ```js
 var map = L.map('map').setView([51.505, -0.09], 13);
