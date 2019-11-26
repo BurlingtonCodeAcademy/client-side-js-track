@@ -200,7 +200,7 @@ fetch('https://jsonplaceholder.typicode.com/posts/1')
 
 # JSON (JavaScript Object Notation)
 
-See a more comprehensive JSON lesson here: [JSON lesson](/lessons/javascript/json)
+See a more comprehensive JSON lesson here: [JSON lesson](/lessons/javascript-track/json)
 
 ### Example
 

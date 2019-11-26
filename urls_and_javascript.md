@@ -1,6 +1,6 @@
 # URLs and Client-Side JavaScript
 
-This brief lesson builds on the [URLs](/lessons/www/urls) lesson, discussing how to read and use the current page's URL (the contents of the address bar) from inside your *client-side* JavaScript apps.
+This brief lesson builds on the [URLs](/lessons/www-track/urls) lesson, discussing how to read and use the current page's URL (the contents of the address bar) from inside your *client-side* JavaScript apps.
 
 # reading Query Parameters
 
